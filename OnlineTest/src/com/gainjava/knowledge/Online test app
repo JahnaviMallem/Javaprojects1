@@ -1,22 +1,4 @@
-Skip to content
-JahnaviMallem
-/
-Javaprojects1
-Public
-Code
-Issues
-Pull requests
-Projects
-Wiki
-Security
-Insights
-Settings
-Beta Try the new code view
-Javaprojects1/OnlineTest/src/com/gainjava/knowledge/OnlineTest.java
-@sumitMultani
-sumitMultani added serial version default id.
- 2 contributors
-211 lines (199 sloc)  6.26 KB
+
 package com.gainjava.knowledge;
 
 import java.awt.event.ActionEvent;
